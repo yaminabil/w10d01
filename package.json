@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test":"jest",
+    "start": "node app.js"
   },
   
   "jest": {
@@ -14,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jest": "^27.5.1",
-    "test":"jest"
+    "jest": "^27.5.1"
+    
   }
 }

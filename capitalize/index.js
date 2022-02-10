@@ -16,8 +16,10 @@ for (let i = 0 ; i < stringArr.length ; i++) {
     
 }
  
-  return console.log (result) ; 
+  return result.trim () ; 
 }
+
+// console.log (capitalize ('hi there, how is it going?'));
 
 // capitalize ("hello         world dude bonus bilal nadjib yacine ");
 // capitalize('a short sentence')

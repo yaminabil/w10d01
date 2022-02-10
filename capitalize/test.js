@@ -15,3 +15,5 @@ test('capitalizes the first letter', () => {
     'I Love Breakfast At Bill Miller Bbq'
   );
 });
+
+// console.log (typeof capitalize);
